@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+    font-weight: bold;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    background-color:#EA55A0;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: 20px;
+    padding: 15px;
+    width: 100%;
+    
+}
+
+p {
+    color: white;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+div {
+    color: white;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#computerGuess {
+    background-color: #EA55A0;
+    width: 70px;
+    padding: 15px;
+    text-align: center;
+}
+
+#your-score {
+    text-align: 25px;
+    font-weight: bold;
+    color: #EA55A0;
+}
